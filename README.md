@@ -4,13 +4,13 @@
   
 **This tool is in development**
  
-  This tool is still in active development. There are documented issues with processes live mission files. If you encounter any other errors please report them here or to the POC so that we can work to fix them. 
+  This tool is still in active development. There are documented issues with processing live mission files. If you encounter any other errors please report them here or to the POC so that we can work to fix them. 
   
   Currently this tool processes data for a select number of segments within the .4607 file inorder to streamline the code. If there is additional information needed from within the file please contact the POC for the script capable of parsing all data transmitted.
  
 # How To
 
-  To use this tool first download the entire 'MTI Toolbox v4' folder and place it in an accessible place on your machine. The entire folder and it's structure should remain unchanged as there are resource files within the folder to allow the translation script to run.
+  To use this tool first download the entire 'MTI Toolbox v4' folder and place it in an accessible place on your machine. The entire folder and its structure should remain unchanged as there are resource files within the folder to allow the translation script to run.
   
   In ArcGIS Pro select add a toolbox to your project and add the .tbx found inside the 'MTI Toolbox v4' folder. When you open the tool you should see an interface like the one below:
   
